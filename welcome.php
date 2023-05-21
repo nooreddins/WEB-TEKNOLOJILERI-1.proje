@@ -81,7 +81,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST"){
     </main>
     
     <footer class="footer">
-        <p class="footer-title">Copyrights @ <span>NOOREDDIN RABIE</span></p>
+        <p class="footer-title">BSM104 <span>WEB TEKNOLOJİLERİ</span></p>
         <div class="social-icons">
             <a href="https://www.linkedin.com/in/nooreddinrabie/" target="_blank"><i class="fab fa-linkedin"></i></a>
             <a href="#"target="_blank"><i class="fab fa-twitter"></i></a>
